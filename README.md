@@ -1,7 +1,7 @@
 # Computational-Mathematics-Series
 A series of notebooks to help you get started in the area of computational mathematics. Many of these notebooks require Sage. 
 
-to get started, here are some instructions. Run the following in your Terminal (or Anaconda Prompt for Windows): 
+To get you started, here are some instructions. Run the following in your Terminal (or Anaconda Prompt for Windows): 
 1. Install Anaconda from https://www.anaconda.com/products/distribution
 2. conda create --name compmathseries 
 3. conda activate compmathseries
